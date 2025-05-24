@@ -18,4 +18,10 @@ npm i
 pnpm dev
 ```
 
+或者
+
+```zsh
+npm run dev
+```
+
 这样在`http://localhost:5173/`就能看到当前的网页了
